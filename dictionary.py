@@ -10,6 +10,6 @@ def dictionary():
             print("milk is in the refrigeration area would you like to purchase this item?")
         elif search == "eggs":
             print("eggs are in the refrigeration area would you like to purchase this item?")
-        elif search == else:
+        elif search == NameError:
             print("sorry we do not have that item in stock would you like to search for something else?")
             search()
